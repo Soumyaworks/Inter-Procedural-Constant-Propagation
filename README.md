@@ -108,7 +108,7 @@ void bar(int i, int j, int k)
 
 ### Prerequisites
 
-- LLVM development environment setup. For more details, visit this [link](https://www.llvm.org/docs/GettingStarted.html).
+- LLVM-14 development environment setup. For more details, visit this [link](https://www.llvm.org/docs/GettingStarted.html).
 - C++ compiler that supports C++11 or later versions.
 - Basic understanding of LLVM IR and compiler optimization techniques
 
